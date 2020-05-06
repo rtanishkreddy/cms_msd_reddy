@@ -1,1 +1,1 @@
-web: gunicorn clientms2.wsgi --log-file -
+web: gunicorn clientms.wsgi --log-file -
